@@ -1,8 +1,5 @@
 <?php
 
-namespace HackTheClassroomTeam5;
-use block_base;
-
 class block_ai_assistant extends block_base
 {
     public function init()
